@@ -1,5 +1,6 @@
-л	font-family: 'Trebuchet MS', Trebuchet, Arial, sans-serif;
-	
+body{
+	font-family: 'Trebuchet MS', Trebuchet, Arial, sans-serif;
+	background-color: #3B3F45;
 }
 
 .container {
